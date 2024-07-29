@@ -1,0 +1,8 @@
+/* styles.css or your preferred CSS file */
+.book-cards-container {
+    background-color: #000;
+    color: #fff;
+  }
+  header,nav{
+    z-index:100001!important;
+  }
